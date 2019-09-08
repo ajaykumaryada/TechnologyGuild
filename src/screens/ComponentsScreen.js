@@ -8,7 +8,7 @@ const ComponentsScreen = () => {
       <Text style={styles.textStyleHeading}>
         Getting started with React Native!
       </Text>
-      <Text style={styles.textStyleBody}>May Name is {name}</Text>
+      <Text style={styles.textStyleBody}>My Name is {name}</Text>
     </View>
   );
 };
