@@ -7,6 +7,7 @@ const GuildDetail = props => {
       <Image source={props.imageSource} />
       <Text>{props.title}</Text>
       <Text>Image Score - {props.imageScore}</Text>
+      <Text>Test From Deloitte Laptop</Text>
     </View>
   );
 };
