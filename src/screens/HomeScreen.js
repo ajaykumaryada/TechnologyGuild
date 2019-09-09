@@ -16,6 +16,10 @@ const HomeScreen = ({ navigation }) => {
         title="Enter Deloitte Technology Guild"
         onPress={() => navigation.navigate("Guild")}
       />
+      <Button
+        title="Enter Color Screen Demo"
+        onPress={() => navigation.navigate("Color")}
+      />
     </View>
   );
 };
